@@ -1,5 +1,5 @@
 {
-  "name": "simple-js",
+  "name": "simple-ts",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliskanerkan/simple-js.git"
+    "url": "git+https://github.com/caliskanerkan/simple-ts.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caliskanerkan/simple-js/issues"
+    "url": "https://github.com/caliskanerkan/simple-ts/issues"
   },
-  "homepage": "https://github.com/caliskanerkan/simple-js#readme"
+  "homepage": "https://github.com/caliskanerkan/simple-ts#readme"
 }
